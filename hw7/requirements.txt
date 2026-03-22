@@ -1,0 +1,6 @@
+streamlit
+openai
+anthropic
+chromadb
+pandas
+pysqlite3-binary
